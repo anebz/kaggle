@@ -1,4 +1,6 @@
-# MNIST with CNN in Keras - Detailed explanation
+# Several MNIST IPython notebooks
+
+## MNIST with CNN in Keras - Detailed explanation
 
 This is the IPython notebook I have in my kernel in my [Kaggle account](https://www.kaggle.com/anebzt/mnist-with-cnn-in-keras-detailed-explanation).
 
@@ -29,5 +31,11 @@ In it I include the code to classify digits and I include comments and detailed 
 
 * **3. Predict and save to csv**
 
+## Fashion MNIST in Keras
+based on the previous notebook, very little changes introduced
 
+## Skin cancer MNIST 
+based on the previous notebook, some image pre-processing introduced
 
+## Extended MNIST
+based on the previous notebook, some minor CNN changes introduced
